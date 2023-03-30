@@ -1,6 +1,6 @@
 {
 
-      "version": "IOS VimaWhatsApp V4.5",
+      "version": "IOS VimaWhatsApp V4.6",
 
       "code": 8,
 
