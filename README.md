@@ -4,13 +4,14 @@
 
  "title":"SLlegendz Vimamodz  IOS WA (🚨 Update🚨)",
 
- "button":"Update",
+ "button":"Update Click",
 
- "description":"ℹ️Vima modzℹ️
+ "description":"ℹ️༆⃝🕊️⃪⃰⃗͢ᴍ⃯ʀ.ᴠɪᴍᴀ ᴍᴏᴅ⃮𝚣⃪⃯⃰🕊️⃟࿐ℹ️
 
 🚨Added Full Antiban
 
-🔴IOS update",
+🔴IOS update
+🌧️🌧️🌧️🌧️",
 
  "download":"https://youtube.com/@vimamodz"
 
