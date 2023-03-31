@@ -1,10 +1,10 @@
-{
+9{
 
  "version":"2.2",
 
  "title":"SLlegendz Vimamodz  IOS WA (🚨 Update🚨)",
 
- "button":"Update Click",
+ "button":"Update",
 
  "description":"ℹ️༆⃝🕊️⃪⃰⃗͢ᴍ⃯ʀ.ᴠɪᴍᴀ ᴍᴏᴅ⃮𝚣⃪⃯⃰🕊️⃟࿐ℹ️
 
